@@ -1,0 +1,59 @@
+{
+  "slug": "no-code-ia-creation-apps-debutant",
+  "title": "Construisez vos premières applications web avec le no‑code boosté par l’IA",
+  "description": "Apprenez à créer rapidement des sites et des applications web sans écrire de code, en utilisant des outils no‑code intégrant l’IA pour générer du contenu, des designs et automatiser les flux. Idéal pour lancer votre projet digital dès les premières semaines.",
+  "level": "debutant",
+  "icon": "🤖",
+  "tags": [
+    "no-code",
+    "IA",
+    "développement web",
+    "automatisation",
+    "startup"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction.md",
+      "title": "Introduction : Pourquoi le no‑code + IA est la révolution pour les entrepreneurs africains"
+    },
+    {
+      "file": "02-concepts-de-base-no-code-ia.md",
+      "title": "Concepts de base du no‑code et de l’IA appliqués au web"
+    },
+    {
+      "file": "03-choisir-les-outils-no-code-ia.md",
+      "title": "Sélectionner les outils no‑code et IA adaptés à vos besoins"
+    },
+    {
+      "file": "04-planifier-son-projet-web.md",
+      "title": "Planifier son application web : du cahier des charges à la maquette IA"
+    },
+    {
+      "file": "05-construire-une-landing-page-avec-webflow-ia.md",
+      "title": "Construire une landing page professionnelle avec Webflow et l’IA"
+    },
+    {
+      "file": "06-creer-une-application-database-sans-code.md",
+      "title": "Créer une application de gestion de données avec Airtable et Softr"
+    },
+    {
+      "file": "07-automatiser-les-flux-avec-zapier-et-ia.md",
+      "title": "Automatiser les processus métier avec Zapier + IA"
+    },
+    {
+      "file": "08-intégrer-un-chatbot-ia-avec-dialogflow.md",
+      "title": "Intégrer un chatbot IA pour améliorer l’interaction client"
+    },
+    {
+      "file": "09-tests-optimisation-et-deploiement.md",
+      "title": "Tests, optimisation et déploiement de votre application"
+    },
+    {
+      "file": "10-projet-finale-creation-dune-plateforme-de-vente.md",
+      "title": "Projet final : Créez votre plateforme de vente en ligne sans code ni programmation"
+    }
+  ]
+}
